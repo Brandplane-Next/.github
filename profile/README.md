@@ -6,6 +6,8 @@
 - app: https://app.brandplane.co
 - documentation: https://brandplane-next.github.io/docs
 
+---
+
 🌍 **City, Country:** Milan, Italy
 
 🚀 **Sectors:** #AI #Marketing
@@ -24,4 +26,4 @@
 
 👥 **Founders:** Marta Basso ([LinkedIn](https://www.linkedin.com/in/martabassof)) & Emanuele Bartolesi ([LinkedIn](https://www.linkedin.com/in/bartolesiemanuele/))
 
-🏅 **Additional Hashtags:** #Startup #DigitalMarketing #Innovation #OpenAI
+🏅 #Startup #DigitalMarketing #Innovation #OpenAI
